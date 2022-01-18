@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/real-react-movie.git/static/js/main.b67d66a6.js",
-    "index.html": "/real-react-movie.git/index.html",
-    "main.b67d66a6.js.map": "/real-react-movie.git/static/js/main.b67d66a6.js.map"
+    "main.js": "/real-react-movie/static/js/main.b67d66a6.js",
+    "index.html": "/real-react-movie/index.html",
+    "main.b67d66a6.js.map": "/real-react-movie/static/js/main.b67d66a6.js.map"
   },
   "entrypoints": [
     "static/js/main.b67d66a6.js"
