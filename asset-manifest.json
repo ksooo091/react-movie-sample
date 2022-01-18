@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/real-react-movie/static/js/main.b67d66a6.js",
+    "main.js": "/real-react-movie/static/js/main.3615c79e.js",
     "index.html": "/real-react-movie/index.html",
-    "main.b67d66a6.js.map": "/real-react-movie/static/js/main.b67d66a6.js.map"
+    "main.3615c79e.js.map": "/real-react-movie/static/js/main.3615c79e.js.map"
   },
   "entrypoints": [
-    "static/js/main.b67d66a6.js"
+    "static/js/main.3615c79e.js"
   ]
 }
